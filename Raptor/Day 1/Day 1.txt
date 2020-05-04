@@ -1,0 +1,30 @@
+1.Assignment:Giving Value to a variable or changing thr value of variable
+2.Output:Display to the User
+Run-> Execute to completion-> Entire flow chart is executed
+Output can be seen in Master console
+Watch window is to watch variable values
+Run-> Step gives step wise execution
+To delete highlight the box and delte
+Mouse right button can also be used for insertion of symbols
+for output insertion "+" sholud be considered
+
+Insert symbol in flow chart
+
+1.Highlight the symbol in symbol panel and click in flowchart
+2.In flow chart,click right button on the position where you want to insert and click the option
+
+To fill the content of symbol
+1.Double click
+2.Mouse right button on the symbol and choose edit
+
+To clear master console use clear tab in the bottom of master console
+
+In selection tab ,no need of ""
+
+"+" operation acts as append when one is text and the other is number
+
+Nested selection example has been done
+
+Operators that can be used:Artithmetic operators:+,-,*,**,^,%,/
+
+Comparison operators:>,<,>=,<=,==,!=

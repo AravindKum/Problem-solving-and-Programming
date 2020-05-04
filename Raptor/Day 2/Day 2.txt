@@ -1,0 +1,27 @@
+Increase the size of flowchart using Scale tab in the Menu
+Help tab->General Help gives all the information of RAPTOR tool box
+For Math functions in RAPTOR:Help->General help->Math in RAPTOR
+spaces can be created using + " "+
+Enable the nexr line displays the result in next line.
+
+Math Functions:
+Max(),min(),sqrt(),floor(),ceiling()
+
+Trignometric functions:Value to be given in Radians
+
+Degree*pi/180
+
+Sin(),Cos()
+
+ Variable names:
+No space in the variable names
+alpahbets
+digits
+underscore
+first letter is alphabet
+names are not case sensitive
+exercise:
+biggest of 3 numbers-using max functions
+
+For loop condition should be written in rhombus.
+
